@@ -15,6 +15,13 @@
       "color": "#2496ed",
       "docsUrl": "https://docs.docker.com/reference/",
       "docsLabelKey": "footerDocsDocker"
+    },
+    { "key":"linux",
+      "title":"linux",
+      "logo":"assets/brands/linux.svg",
+      "color":"#F4BC00",
+      "docsUrl":"https://docs.kernel.org/",
+      "docsLabelKey":"footerDocssLinux"
     }
   ]
 }
